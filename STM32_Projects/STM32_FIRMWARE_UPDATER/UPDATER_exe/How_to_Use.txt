@@ -13,4 +13,4 @@ Once you have build the application, then run the application like below.
 			.\etx_ota_app.exe 8 ..\..\Application\Debug\Blinky.bin
 
 
-.\etx_ota_app.exe 10 D:\STM32_DOKUMANLARI\STM32_WORKSPACE_3\Question2_Answer\Debug\Question2_Answer.bin
+.\etx_ota_app.exe 10 <bin_file_path>
