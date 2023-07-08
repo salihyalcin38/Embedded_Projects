@@ -1,0 +1,3 @@
+- Firmware Updater for STM32 Nucleo Board (Probably It won't work for STM32F4 Discovery because we need Virtual Com for update)
+- Used STM32CUDEIDE and aim to update via USB OTG.
+- I used UPDATER_exe to send executable file (.bin or .hex file) 
